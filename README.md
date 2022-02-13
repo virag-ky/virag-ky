@@ -6,6 +6,10 @@
 
 <p align="center">Everyday I'm improving my skills by practicing and building projects.</p>
 
+<p align="center">Currently I'm studying web development at Microverse, getting experience by pair programming (driver/navigator method) with other students.</p>
+
+<p align="center">My goal is to be a Full Stack Web Developer in the end of the program.</p>
+
 <h3 align="center">Languages and Tools:</h3>
 <p align="center">
 <img src="https://user-images.githubusercontent.com/79658534/150795724-e0f0ed97-8868-492a-bea3-bbd04473cbaf.png" width="55px">&nbsp
