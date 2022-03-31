@@ -1,7 +1,10 @@
 ![Hello, I 'm Virag](https://user-images.githubusercontent.com/79658534/161106253-6205135b-3dbc-47f4-8782-b63bbdee8c71.png)
 
 
-![Hello, I 'm Virag (1)](https://user-images.githubusercontent.com/79658534/161110441-ff435c69-5408-40c6-bd67-fdb34531db5f.gif)
+![I'm a student and mentor at Microverse, currently learning web development in a remote multicultural environment, and getting experience by pair programming (drivernavigator method) with other students  In 2021, I st (1)](https://user-images.githubusercontent.com/79658534/161117284-996e7848-2758-499f-98ec-b2986660f6c3.gif)
+
+
+
 
 
 <h3 align="center"> 
