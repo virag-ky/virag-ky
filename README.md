@@ -1,16 +1,13 @@
-<h1 align="center">Hello, I'm Virag!</h1>
+![Hello, I 'm Virag](https://user-images.githubusercontent.com/79658534/161106253-6205135b-3dbc-47f4-8782-b63bbdee8c71.png)
 
-<h2 align="center">Microverse student</h2>
+
+![Hello, I 'm Virag (1)](https://user-images.githubusercontent.com/79658534/161110441-ff435c69-5408-40c6-bd67-fdb34531db5f.gif)
+
 
 <h3 align="center"> 
   Visitor count<br><br>
   <img src="https://profile-counter.glitch.me/virag-ky/count.svg" />
 </h3>
-
-<h3 align="center">In 2021, I started to learn to code and study the basics and fundamentals of web development.
-Everyday I'm improving my skills by practicing and building projects.
-Currently I'm studying web development at Microverse in a remote multicultural environment, and getting experience by pair programming (driver/navigator method) with other students.
-My goal is to be a Full Stack Web Developer in the end of the program.</h3>
 
 ```javaScript
 const ABOUT_ME = {
