@@ -29,7 +29,6 @@ const ABOUT_ME = {
     'Travel'
   }
 }
-<br>
 ```
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=virag-ky&show_icons=true&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
 
