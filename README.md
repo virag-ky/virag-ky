@@ -40,7 +40,7 @@ const ABOUT_ME = {
 <h3><a href="mailto:vkormoczy@gmail.com"><img src="https://user-images.githubusercontent.com/79658534/155697385-9f83bc34-bd2a-4338-9394-c83ee8be9896.png" width="16px">&nbspvkormoczy@gmail.com</a></h3>
 <h3><a href="https://www.linkedin.com/in/virag-kormoczy-1b5b23208/"><img src="https://user-images.githubusercontent.com/79658534/155697061-56d45708-ad01-4ffc-9697-570007606fd3.png" width="18px">&nbsp@virag-kormoczy</a></h3>
   
-  [![github-readme-twitter](https://github-readme-twitter.gazf.vercel.app/api?id=Virag_Ky)](https://github.com/gazf/github-readme-twitter)
+[![github-readme-twitter](https://github-readme-twitter.gazf.vercel.app/api?id=Virag_Ky)](https://github.com/gazf/github-readme-twitter)
 </ul>
 <br>
 
