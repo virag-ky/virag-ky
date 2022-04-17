@@ -12,24 +12,10 @@
   <img src="https://profile-counter.glitch.me/virag-ky/count.svg" />
 </h3>
 
-```javaScript
-const ABOUT_ME = {
-  Nationality: 'hungarian',
-  Location: 'Romania',
-  Pet: {
-    type: 'Chihuahua',
-    name: 'Maisy'
-  },
-  Languages: [HTML, CSS, JavaScript],
-  Tools: [Git, Github, Terminal, DevTools, Sass],
-  Hobbies: {
-    'Music': ['cyberpunk', 'electronic', 'future garage'],
-    'Workout',
-    'Formula-1',
-    'Travel'
-  }
-}
-```
+![1](https://user-images.githubusercontent.com/79658534/163717525-ca9068d1-5b3b-4a27-8916-b86f9274ee34.png)
+
+
+
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=virag-ky&show_icons=true&theme=radical)](https://github.com/anuraghazra/github-readme-stats)        [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=virag-ky&theme=radical&date_format=M%20j%5B%2C%20Y%5D)](https://git.io/streak-stats)
 
 <br>
