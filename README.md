@@ -1,7 +1,9 @@
 ![Hello, I 'm Virag](https://user-images.githubusercontent.com/79658534/161106253-6205135b-3dbc-47f4-8782-b63bbdee8c71.png)
 
 
-![I'm a student and mentor at Microverse, currently learning web development in a remote multicultural environment, and getting experience by pair programming (drivernavigator method) with other students  In 2021, I st](https://user-images.githubusercontent.com/79658534/163269113-9fe94fe0-0e52-4d78-a593-af09320a7517.gif)
+
+
+![I'm a student and mentor at Microverse, currently learning web development in a remote multicultural environment, and getting experience by pair programming (drivernavigator method) with other students  In 2021, I st (1)](https://user-images.githubusercontent.com/79658534/164434036-a74fc18d-c4d9-4e75-af19-862b03ec9e2c.gif)
 
 
 
