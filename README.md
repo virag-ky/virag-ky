@@ -14,7 +14,8 @@
   <img src="https://profile-counter.glitch.me/virag-ky/count.svg" />
 </h3>
 
-![1](https://user-images.githubusercontent.com/79658534/163717525-ca9068d1-5b3b-4a27-8916-b86f9274ee34.png)
+![Hello, I 'm Virag](https://user-images.githubusercontent.com/79658534/165603232-c6ba5f1b-4dc0-48be-8eb5-e360a5855d55.png)
+
 
 
 
