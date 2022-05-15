@@ -25,7 +25,9 @@
 
 <br>
 <br>
-<h2 align="center">Let's connect...</h2>
+
+<img align="center" src="https://readme-typing-svg.herokuapp.com?size=20&color=F702E9&center=true&lines=Let's+connect..." width="100%">
+
 <div align="center">
 <table>
  <tr>
