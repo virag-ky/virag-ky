@@ -9,14 +9,19 @@
 
 
 
-<h3 align="center"> 
+<h2 align="center"> 
   Visitor count<br><br>
   <img src="https://profile-counter.glitch.me/virag-ky/count.svg" />
-</h3>
+</h2>
 
 ![Hello, I 'm Virag](https://user-images.githubusercontent.com/79658534/165603232-c6ba5f1b-4dc0-48be-8eb5-e360a5855d55.png)
 
 <div><table><tr><td width="50%"><img src="https://github-readme-stats.vercel.app/api?username=virag-ky&show_icons=true&title_color=ff1493&icon_color=9457eb&text_color=0CFFD2&bg_color=05061D&border_color=ff1493"></td><td width="50%"><img src="https://github-readme-streak-stats.herokuapp.com?user=virag-ky&ring=ff1493&sideNums=ff1493&stroke=0CFFD2&border=ff1493&background=05061d&sideLabels=0cffd2&dates=9457eb&fire=9457eb&currStreakLabel=0cffd2&currStreakNum=0cffd2&date_format=M%20j%5B%2C%20Y%5D"></td></tr></table></div>
+
+<h1 align="center">Portfolio</h1>
+<h2 align="center">Live Site URL: <a href="https://virag-ky.github.io/Portfolio/" target="_blank">https://virag-ky.github.io/Portfolio/</a></h2>
+
+![Screenshot from 2022-05-14 21-04-22](https://user-images.githubusercontent.com/79658534/168466456-f6212fef-8c14-461b-b309-e0f0da670da6.png)
 
 <br>
 <br>
