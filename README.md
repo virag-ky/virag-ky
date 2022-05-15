@@ -16,7 +16,7 @@
 
 ![Hello, I 'm Virag](https://user-images.githubusercontent.com/79658534/165603232-c6ba5f1b-4dc0-48be-8eb5-e360a5855d55.png)
 
-<div><table><tr><td width="50%"><img src="https://github-readme-stats.vercel.app/api?username=virag-ky&show_icons=true&title_color=ff1493&icon_color=9457eb&text_color=0CFFD2&bg_color=05061D&border_color=ff1493"></td><td width="50%"><img src="https://github-readme-streak-stats.herokuapp.com?user=virag-ky&ring=ff1493&sideNums=ff1493&stroke=0CFFD2&border=ff1493&background=05061d&sideLabels=0cffd2&dates=9457eb&fire=9457eb&currStreakLabel=0cffd2&currStreakNum=0cffd2&date_format=M%20j%5B%2C%20Y%5D"></td></tr></table></div>
+<div><table><tr><td width="50%"><img src="https://github-readme-stats.vercel.app/api?username=virag-ky&show_icons=true&hide_border=true&title_color=f65ee0&icon_color=1495ff&text_color=0CFFD2&bg_color=0c002e"></td><td width="50%"><img src="https://github-readme-streak-stats.herokuapp.com?user=virag-ky&hide_border=true&ring=f65ee0&sideNums=f65ee0&stroke=1495ff&background=0c002e&sideLabels=0cffd2&dates=1495ff&fire=1495ff&currStreakLabel=0cffd2&currStreakNum=0cffd2&date_format=M%20j%5B%2C%20Y%5D"></td></tr></table></div>
 
 <h1 align="center">Portfolio</h1>
 <h2 align="center">Live Site URL: <a href="https://virag-ky.github.io/Portfolio/" target="_blank">https://virag-ky.github.io/Portfolio/</a></h2>
