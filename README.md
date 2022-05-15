@@ -18,6 +18,8 @@
 
 <div><table><tr><td width="50%"><img src="https://github-readme-stats.vercel.app/api?username=virag-ky&show_icons=true&hide_border=true&title_color=f65ee0&icon_color=1495ff&text_color=0CFFD2&bg_color=0c002e"></td><td width="50%"><img src="https://github-readme-streak-stats.herokuapp.com?user=virag-ky&hide_border=true&ring=f65ee0&sideNums=f65ee0&stroke=1495ff&background=0c002e&sideLabels=0cffd2&dates=1495ff&fire=1495ff&currStreakLabel=0cffd2&currStreakNum=0cffd2&date_format=M%20j%5B%2C%20Y%5D"></td></tr></table></div>
 
+[![Ashutosh's github activity graph](https://activity-graph.herokuapp.com/graph?username=virag-ky&bg_color=0c002e&color=0CFFD2&line=f65ee0&point=1495ff&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
+
 <h1 align="center">Portfolio</h1>
 <h2 align="center">Live Site URL: <a href="https://virag-ky.github.io/Portfolio/" target="_blank">https://virag-ky.github.io/Portfolio/</a></h2>
 
@@ -39,7 +41,6 @@
    </td>
   <td>
     <img src="https://github-readme-twitter.gazf.vercel.app/api?id=Virag_Ky">
-<!-- [![github-readme-twitter](https://github-readme-twitter.gazf.vercel.app/api?id=Virag_Ky)](https://github.com/gazf/github-readme-twitter) -->
    </td>
   </tr>
 </table>
