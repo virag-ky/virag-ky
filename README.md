@@ -23,7 +23,8 @@
 <h1 align="center">Portfolio</h1>
 <h2 align="center">Live Site URL: <a href="https://virag-ky.github.io/Portfolio/" target="_blank">https://virag-ky.github.io/Portfolio/</a></h2>
 
-![Screenshot from 2022-05-14 21-04-22](https://user-images.githubusercontent.com/79658534/168466456-f6212fef-8c14-461b-b309-e0f0da670da6.png)
+![Screenshot from 2022-06-07 20-32-22](https://user-images.githubusercontent.com/79658534/172446417-ccc8a41d-bea2-4e98-8827-55e87ff8f8a5.png)
+
 
 <br>
 <br>
