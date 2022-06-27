@@ -6,7 +6,7 @@
 <br>
 
 <h1 align="center">Tasks for today:</h1>
-<img align="center" width="100%" src="https://user-images.githubusercontent.com/79658534/175780076-77f05acf-1129-49ec-8002-46e745934f47.png">
+<img align="center" width="100%" src="https://user-images.githubusercontent.com/79658534/175875982-78bca9a3-bc71-42b6-8c72-3a640058797c.png">
 
 
 <br>
