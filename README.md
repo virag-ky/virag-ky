@@ -16,7 +16,9 @@
   <img src="https://profile-counter.glitch.me/virag-ky/count.svg" />
 </h2>
 
-![Hello, I 'm Virag (1584 × 500 px) (1584 × 650 px) (1)](https://user-images.githubusercontent.com/79658534/172453652-87ddeb1e-d032-424f-8905-cd10dfeaced9.png)
+![Hello, I 'm Virag (1584 × 500 px) (1584 × 650 px)](https://user-images.githubusercontent.com/79658534/177049657-94916203-2378-4c43-a917-1c9638e5afa2.png)
+
+
 
 <div><table><tr><td width="50%"><img src="https://github-readme-stats.vercel.app/api?username=virag-ky&show_icons=true&hide_border=true&title_color=f65ee0&icon_color=1495ff&text_color=0CFFD2&bg_color=0c002e"></td><td width="50%"><img src="https://github-readme-streak-stats.herokuapp.com?user=virag-ky&hide_border=true&ring=f65ee0&sideNums=f65ee0&stroke=1495ff&background=0c002e&sideLabels=0cffd2&dates=1495ff&fire=1495ff&currStreakLabel=0cffd2&currStreakNum=0cffd2&date_format=M%20j%5B%2C%20Y%5D"></td></tr></table></div>
 
