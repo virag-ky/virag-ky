@@ -58,6 +58,9 @@
 </div>
 
 <br>
+<p align="center">
+<img width="60%" src="https://spotify-github-profile.vercel.app/api/view?uid=31577g6njwto5jfwng5cjkbmmfvy&cover_image=true&theme=default&bar_color=02f7cf&bar_color_cover=false">
+</p>
 
 ![Untitled design](https://user-images.githubusercontent.com/79658534/172454636-01c8b9c6-d97d-4910-a162-aa512b19d47a.gif)
 
