@@ -6,7 +6,7 @@
 <br>
 
 <h1 align="center">Tasks for the week:</h1>
-<img align="center" width="100%" src="https://user-images.githubusercontent.com/79658534/179530430-1b9e829b-768d-4427-91fe-79c262faf450.png">
+<img align="center" width="100%" src="">
 
 
 <br>
