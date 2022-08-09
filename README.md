@@ -5,8 +5,8 @@
 <br>
 <br>
 
-<h1 align="center">Tasks for the week:</h1>
-<img align="center" width="100%" src="">
+<h1 align="center">Tasks for today:</h1>
+<img align="center" width="100%" src="https://user-images.githubusercontent.com/79658534/183610475-92d441e7-18da-47b6-89bf-8393c0dd495e.png">
 
 
 <br>
