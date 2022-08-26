@@ -9,7 +9,7 @@
 <br>
 
 ![Hello, I 'm Virag (1584 × 500 px) (1584 × 650 px) (1584 × 50 px) (1584 × 40 px) (1584 × 300 px) (1584 × 200 px) (1584 × 100 px)](https://user-images.githubusercontent.com/79658534/185420783-c817df24-3b52-4b13-82aa-bb22d065b42d.jpg)
-<img align="center" width="100%" src="https://user-images.githubusercontent.com/79658534/186220685-b2a7a4cc-14c2-4975-b8b2-c6f18125a551.png">
+<img align="center" width="100%" src="https://user-images.githubusercontent.com/79658534/186969300-d53cb354-87be-42b9-ab3a-2d3cafeab7fc.png">
 
 
 <br>
