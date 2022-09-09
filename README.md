@@ -22,8 +22,8 @@
 
 ![Hello, I 'm Virag (1584 × 500 px) (1584 × 650 px) (1584 × 50 px)](https://user-images.githubusercontent.com/79658534/177050095-62c88ddd-7415-4147-b796-9eb0ee61bce0.png)
 
+![Hello, I 'm Virag (1584 × 500 px) (1584 × 650 px)](https://user-images.githubusercontent.com/79658534/189374560-b8da12f1-a0bb-46eb-91fe-cf41d7977b7a.png)
 
-![Hello, I 'm Virag (1584 × 500 px) (1584 × 650 px)](https://user-images.githubusercontent.com/79658534/185409748-e9f597a2-aa4c-45a6-9e41-8a7dd3a1ba78.png)
 
 
 
