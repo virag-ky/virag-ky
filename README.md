@@ -1,7 +1,8 @@
 ![Untitled (1920 × 500 px) (1920 × 300 px) (1920 × 450 px)](https://user-images.githubusercontent.com/79658534/187024107-d256ad9a-8bb5-4275-940b-e9924ddc4b23.gif)
 
 
-![Untitled (1920 × 500 px) (1920 × 300 px) (1920 × 450 px) (1920 × 1000 px)](https://user-images.githubusercontent.com/79658534/185791649-185000da-6b58-43c9-8404-7b6eb9168058.gif)
+![Untitled (1920 × 500 px) (1920 × 300 px) (1920 × 450 px) (1920 × 1000 px)](https://user-images.githubusercontent.com/79658534/191758493-eb0e304c-27b6-40f6-883b-aa07b5a00ba0.gif)
+
 
 
 <br>
