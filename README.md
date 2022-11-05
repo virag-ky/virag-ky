@@ -1,15 +1,5 @@
-![Untitled (1920 × 500 px) (1920 × 300 px) (1920 × 450 px) (1920 × 350 px) (2)](https://user-images.githubusercontent.com/79658534/191767365-49199769-c7c9-41a9-af2f-4681d386fda2.gif)
 
-
-![Untitled (1920 × 500 px) (1920 × 300 px) (1920 × 450 px) (1920 × 1000 px) (1)](https://user-images.githubusercontent.com/79658534/191771010-26a0df01-bb82-48c9-82ba-b4ea8e143f98.gif)
-
-
-
-
-
-![Hello, I 'm Virag (1584 × 500 px) (1584 × 650 px) (1584 × 50 px) (1584 × 40 px) (1584 × 300 px) (1584 × 200 px) (1584 × 100 px)](https://user-images.githubusercontent.com/79658534/191951467-77488d5d-22a4-4e4a-95f4-3a0101d6cf9c.png)
-<img align="center" width="100%" src="https://user-images.githubusercontent.com/79658534/198891330-1df45024-067d-4116-8042-e675ea9ba41f.png">
-
+![Neon Minimalist Motivational Inspirational Quote Facebook Cover](https://user-images.githubusercontent.com/79658534/200125028-d731f1eb-6f7f-4a6f-a4cc-36b5373ca3ee.gif)
 
 <br>
 <br>
