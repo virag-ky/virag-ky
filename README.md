@@ -1,5 +1,7 @@
+![Neon Minimalist Motivational Inspirational Quote Facebook Cover (2)](https://user-images.githubusercontent.com/79658534/200142206-077c2352-e70f-44e2-9af6-43316c99c154.gif)
 
-![Neon Minimalist Motivational Inspirational Quote Facebook Cover](https://user-images.githubusercontent.com/79658534/200125028-d731f1eb-6f7f-4a6f-a4cc-36b5373ca3ee.gif)
+
+
 
 <br>
 <br>
@@ -60,5 +62,5 @@
 
 
 
-![Untitled design](https://user-images.githubusercontent.com/79658534/200126625-5c2272c1-e219-4496-aa78-e6de35d170b1.gif)
+![Untitled design (1)](https://user-images.githubusercontent.com/79658534/200142340-fac792e3-bd0d-499c-9926-4e1bb4183b3c.gif)
 
