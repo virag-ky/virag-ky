@@ -65,7 +65,6 @@
 <img width="60%" src="https://spotify-github-profile.vercel.app/api/view?uid=31577g6njwto5jfwng5cjkbmmfvy&cover_image=true&theme=default&bar_color=02f7cf&bar_color_cover=false">
 </p>
 
+![Untitled design](https://user-images.githubusercontent.com/79658534/201369784-f0e99c90-0fcd-4417-83e8-e276ec7fe2e2.gif)
 
-
-![Untitled design (1)](https://user-images.githubusercontent.com/79658534/200142340-fac792e3-bd0d-499c-9926-4e1bb4183b3c.gif)
 
