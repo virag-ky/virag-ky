@@ -17,7 +17,7 @@
 
 ![Hello, I 'm Virag (1584 × 500 px) (1584 × 650 px) (1584 × 50 px)](https://user-images.githubusercontent.com/79658534/177050095-62c88ddd-7415-4147-b796-9eb0ee61bce0.png)
 
-![Hello, I 'm Virag (1584 × 500 px) (1584 × 650 px)](https://user-images.githubusercontent.com/79658534/196789443-9a130733-1e68-4d3a-a116-c1af4ee371cd.png)
+![Hello, I 'm Virag (1584 × 500 px) (1584 × 650 px)](https://user-images.githubusercontent.com/79658534/204528663-8b03d8da-3619-43a1-9d4a-47c102d34785.png)
 
 
 
@@ -65,6 +65,7 @@
 <img width="60%" src="https://spotify-github-profile.vercel.app/api/view?uid=31577g6njwto5jfwng5cjkbmmfvy&cover_image=true&theme=default&bar_color=02f7cf&bar_color_cover=false">
 </p>
 
-![Untitled design](https://user-images.githubusercontent.com/79658534/201369784-f0e99c90-0fcd-4417-83e8-e276ec7fe2e2.gif)
 
+
+![Hello, I 'm Virag (1584 × 500 px) (1584 × 650 px)](https://user-images.githubusercontent.com/79658534/204528490-8ec968e4-a3bb-45ba-a734-7a5c5e1514d5.gif)
 
