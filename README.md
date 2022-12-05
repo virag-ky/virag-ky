@@ -1,4 +1,5 @@
-![Neon Minimalist Motivational Inspirational Quote Facebook Cover](https://user-images.githubusercontent.com/79658534/203763129-a91a0bd9-32d4-441f-879d-966ca9fdd0d3.gif)
+![Neon Minimalist Motivational Inspirational Quote Facebook Cover (1)](https://user-images.githubusercontent.com/79658534/205599834-7282df76-5106-43c9-a484-7009c51bbad5.png)
+
 
 <br>
 <br>
@@ -68,5 +69,6 @@
 
 
 
-![Hello, I 'm Virag (1584 × 500 px) (1584 × 650 px)](https://user-images.githubusercontent.com/79658534/204528490-8ec968e4-a3bb-45ba-a734-7a5c5e1514d5.gif)
+![Untitled (1920 × 500 px) (1920 × 300 px) (1920 × 450 px)](https://user-images.githubusercontent.com/79658534/205599898-43628498-0ca8-49d2-8b1b-1103e61acf51.gif)
+
 
