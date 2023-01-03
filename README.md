@@ -12,8 +12,8 @@
 ![Hello, I 'm Virag (1584 × 500 px) (1584 × 650 px) (1584 × 50 px)](https://user-images.githubusercontent.com/79658534/177050095-62c88ddd-7415-4147-b796-9eb0ee61bce0.png)
 
 
+![Neon Minimalist Motivational Inspirational Quote Facebook Cover (1)](https://user-images.githubusercontent.com/79658534/210346410-8da8a113-fc7a-4623-9f85-3205012d4611.png)
 
-![Neon Minimalist Motivational Inspirational Quote Facebook Cover](https://user-images.githubusercontent.com/79658534/209662331-37c07717-310f-40f9-a923-d2d2528dbc2f.png)
 
 
 
