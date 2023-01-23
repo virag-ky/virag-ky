@@ -38,9 +38,10 @@
 <br>
 <br>
 <h1 align="center">Portfolio</h1>
-<h2 align="center">Live Site URL: <a href="https://virag-ky.github.io/Portfolio/" target="_blank">https://virag-ky.github.io/Portfolio/</a></h2>
+<h2 align="center">Live Site: <a href="https://virag-ky-portfolio.netlify.app/" target="_blank">https://virag-ky-portfolio.netlify.app/</a></h2>
 
-![Screenshot from 2022-07-29 21-16-29](https://user-images.githubusercontent.com/79658534/181822353-c6425f8c-5589-4746-90bf-1c7d195c3b00.png)
+![Screenshot from 2023-01-23 14-16-01](https://user-images.githubusercontent.com/79658534/214039202-5529d47c-30aa-4dcd-9011-4d11f61509a6.png)
+
 
 
 
