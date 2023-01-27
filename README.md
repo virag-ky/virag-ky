@@ -13,7 +13,7 @@
 
 
 
-![2](https://user-images.githubusercontent.com/79658534/211169582-68707a15-28b8-4a52-bc3a-a50025c6b122.png)
+![Neon Minimalist Motivational Inspirational Quote Facebook Cover](https://user-images.githubusercontent.com/79658534/215098409-a6d2034f-b8a2-46b3-8b35-7e732ff6f0f3.png)
 
 
 
