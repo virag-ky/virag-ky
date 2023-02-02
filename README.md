@@ -1,4 +1,5 @@
-![1](https://user-images.githubusercontent.com/79658534/211169572-dcd23006-23c0-4cae-8e8a-f4488f558858.png)
+![Neon Minimalist Motivational Inspirational Quote Facebook Cover (2)](https://user-images.githubusercontent.com/79658534/216309694-19824e14-b5d0-4394-81d2-a57e778c7dd5.png)
+
 
 
 <br>
@@ -22,14 +23,6 @@
 ![Hello, I 'm Virag (1584 × 500 px) (1584 × 650 px) (1584 × 50 px)](https://user-images.githubusercontent.com/79658534/177050095-62c88ddd-7415-4147-b796-9eb0ee61bce0.png)
 
 
-![Hello, I 'm Virag (1584 × 500 px) (1584 × 650 px)](https://user-images.githubusercontent.com/79658534/211169709-29b2f13b-0b76-4b90-a604-473a536cb86b.png)
-
-
-
-
-
-
-
 <div><table><tr><td width="50%"><img src="https://github-readme-stats.vercel.app/api?username=virag-ky&show_icons=true&hide_border=true&title_color=f65ee0&icon_color=1495ff&text_color=0CFFD2&bg_color=0c002e"></td><td width="50%"><img src="https://github-readme-streak-stats.herokuapp.com?user=virag-ky&hide_border=true&ring=f65ee0&sideNums=f65ee0&stroke=1495ff&background=0c002e&sideLabels=0cffd2&dates=1495ff&fire=1495ff&currStreakLabel=0cffd2&currStreakNum=0cffd2&date_format=M%20j%5B%2C%20Y%5D"></td></tr></table></div>
 
 [![Ashutosh's github activity graph](https://github-readme-activity-graph.cyclic.app/graph?username=virag-ky&bg_color=0c002e&color=0CFFD2&line=f65ee0&point=1495ff&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
@@ -40,7 +33,8 @@
 <h1 align="center">Portfolio</h1>
 <h2 align="center">Live Site: <a href="https://virag-ky-portfolio.netlify.app/" target="_blank">https://virag-ky-portfolio.netlify.app/</a></h2>
 
-![Screenshot from 2023-01-23 14-16-01](https://user-images.githubusercontent.com/79658534/214039202-5529d47c-30aa-4dcd-9011-4d11f61509a6.png)
+
+![Screenshot from 2023-02-02 13-20-09](https://user-images.githubusercontent.com/79658534/216311328-b0fdc9d1-5232-42f3-a0d9-2a886f3d675b.png)
 
 
 
@@ -67,9 +61,9 @@
 </div>
 
 <br>
-<p align="center">
+<!-- <p align="center">
 <img width="60%" src="https://spotify-github-profile.vercel.app/api/view?uid=31577g6njwto5jfwng5cjkbmmfvy&cover_image=true&theme=default&bar_color=02f7cf&bar_color_cover=false">
-</p>
+</p> -->
 
 
 
