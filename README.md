@@ -29,7 +29,7 @@
 
 [![Ashutosh's github activity graph](https://github-readme-activity-graph.cyclic.app/graph?username=virag-ky&bg_color=0c002e&color=0CFFD2&line=f65ee0&point=1495ff&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
-![Neon Minimalist Motivational Inspirational Quote Facebook Cover](https://user-images.githubusercontent.com/79658534/223057383-b6877e43-889c-413a-af0e-5e1e14d6bf1b.png)
+![Neon Minimalist Motivational Inspirational Quote Facebook Cover](https://user-images.githubusercontent.com/79658534/224557169-7b373fa1-a1da-458f-aa2d-35c268b7a4ab.png)
 
 
 ![Hello, I 'm Virag (1584 × 500 px) (1584 × 650 px) (1584 × 50 px)](https://user-images.githubusercontent.com/79658534/177050095-62c88ddd-7415-4147-b796-9eb0ee61bce0.png)
