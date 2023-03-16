@@ -37,7 +37,7 @@
 <br>
 <br>
 <h1 align="center">Portfolio</h1>
-<h2 align="center">Live Site: <a href="https://virag-ky-portfolio.netlify.app/" target="_blank">https://virag-ky-portfolio.netlify.app/</a></h2>
+<!-- <h2 align="center">Live Site: <a href="https://virag-ky-portfolio.netlify.app/" target="_blank">https://virag-ky-portfolio.netlify.app/</a></h2> -->
 
 
 ![Screenshot from 2023-02-02 13-20-09](https://user-images.githubusercontent.com/79658534/216311328-b0fdc9d1-5232-42f3-a0d9-2a886f3d675b.png)
