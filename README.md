@@ -1,4 +1,4 @@
-![Neon Minimalist Motivational Inspirational Quote Facebook Cover (2)](https://user-images.githubusercontent.com/79658534/218522973-f3df8637-d7f1-4c5e-b5ee-575abf2b8e4e.gif)
+![Neon Minimalist Motivational Inspirational Quote Facebook Cover](https://user-images.githubusercontent.com/79658534/225636366-0c990a38-8dee-439b-ba25-aec752d93bbc.png)
 
 
 
@@ -29,7 +29,8 @@
 
 [![Ashutosh's github activity graph](https://github-readme-activity-graph.cyclic.app/graph?username=virag-ky&bg_color=0c002e&color=0CFFD2&line=f65ee0&point=1495ff&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
-![Neon Minimalist Motivational Inspirational Quote Facebook Cover](https://user-images.githubusercontent.com/79658534/224557169-7b373fa1-a1da-458f-aa2d-35c268b7a4ab.png)
+
+![2](https://user-images.githubusercontent.com/79658534/225635723-b2a6046f-5e08-4252-b2cd-fa0d990763b8.png)
 
 
 ![Hello, I 'm Virag (1584 × 500 px) (1584 × 650 px) (1584 × 50 px)](https://user-images.githubusercontent.com/79658534/177050095-62c88ddd-7415-4147-b796-9eb0ee61bce0.png)
