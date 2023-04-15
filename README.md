@@ -50,7 +50,7 @@
 <br>
 <br>
 
-<img align="center" src="https://readme-typing-svg.herokuapp.com?size=20&color=F702E9&center=true&lines=Let's+connect..." width="100%">
+<img align="center" src="https://readme-typing-svg.herokuapp.com?size=20&color=1495FF&center=true&lines=Let's+connect..." width="100%">
 
 <div align="center">
 <table>
