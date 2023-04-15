@@ -40,7 +40,8 @@
 <h2 align="center">Live Site: <a href="https://virag-ky-portfolio.netlify.app/" target="_blank">https://virag-ky-portfolio.netlify.app/</a></h2> 
 
 
-![Screenshot from 2023-03-28 13-41-40](https://user-images.githubusercontent.com/79658534/228211439-1b6ab716-c088-4a9d-97d5-b2e11e6b8a36.png)
+![Screenshot from 2023-04-15 12-36-36](https://user-images.githubusercontent.com/79658534/232206056-9bacde7c-d97a-4f52-abf0-cefa5f0e1f48.png)
+
 
 
 
