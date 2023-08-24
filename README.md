@@ -21,4 +21,5 @@
 
 
 
-![portfolio](https://github.com/virag-ky/virag-ky/assets/79658534/6d5e40ce-3959-442a-92cd-d795d239a598)
+![portfolio](https://github.com/virag-ky/virag-ky/assets/79658534/53dbb885-6703-4134-90ca-4707ede24bf1)
+
