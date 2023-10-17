@@ -23,5 +23,6 @@
 
 
 
-![Screenshot from 2023-08-26 12-56-00](https://github.com/virag-ky/virag-ky/assets/79658534/7234ac07-7161-41b5-a485-9f3203a1bc39)
+
+![Screenshot from 2023-10-17 23-44-46](https://github.com/virag-ky/virag-ky/assets/79658534/d52c8115-18f2-4ba1-9f7c-104f9fc8c102)
 
