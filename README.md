@@ -19,10 +19,10 @@
 <br>
 <br>
 <h1 align="center">Portfolio</h1>
-<h2 align="center"><a href="https://virag-ky-portfolio.netlify.app/" target="_blank">🦋 Checkout my cool portfolio 🦋</a></h2>
+<h2 align="center"><a href="https://virag-ky-portfolio.netlify.app/" target="_blank">🦋 Checkout my portfolio 🦋</a></h2>
 
 
 
 
-![Screenshot from 2023-10-17 23-44-46](https://github.com/virag-ky/virag-ky/assets/79658534/d52c8115-18f2-4ba1-9f7c-104f9fc8c102)
+![Screenshot from 2023-10-20 15-14-36](https://github.com/virag-ky/virag-ky/assets/79658534/24f3184c-a9d7-4026-bb9a-2b68b93c88a6)
 
