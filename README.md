@@ -1,4 +1,4 @@
-![Neon Minimalist Motivational Inspirational Quote Facebook Cover](https://github.com/virag-ky/virag-ky/assets/79658534/a9c20c12-e299-48c8-be65-e94d1e88b3f3)
+![Neon Minimalist Motivational Inspirational Quote Facebook Cover (1)](https://github.com/virag-ky/virag-ky/assets/79658534/83fd7f9f-3d94-4684-b462-ae68819dfcd7)
 
 
 
