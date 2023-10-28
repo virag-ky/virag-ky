@@ -23,8 +23,6 @@
 <h1 align="center">Portfolio</h1>
 <h2 align="center"><a href="https://virag-ky-portfolio.netlify.app/" target="_blank">🦋 Checkout my portfolio 🦋</a></h2>
 
+![Screenshot from 2023-10-28 16-36-52](https://github.com/virag-ky/virag-ky/assets/79658534/14cb6b60-7a8d-4b5c-8f13-13367bb6748b)
 
-
-
-![Screenshot from 2023-10-20 15-14-36](https://github.com/virag-ky/virag-ky/assets/79658534/24f3184c-a9d7-4026-bb9a-2b68b93c88a6)
 
