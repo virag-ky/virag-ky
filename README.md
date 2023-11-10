@@ -22,10 +22,10 @@
 <h2 align="center">
  📈 Statistics 📈
 </h2>
-<div><table><tr><td width="50%"><img src="https://github-readme-stats.vercel.app/api?username=virag-ky&show_icons=true&include_all_commits=true&hide_border=true&title_color=8c52ff&icon_color=8c52ff&text_color=ffaaff&bg_color=000000"></td><td width="50%"><img src="https://github-readme-streak-stats.herokuapp.com?user=virag-ky&hide_border=true&ring=8c52ff&sideNums=ffaaff&stroke=8c52ff&background=000&sideLabels=a97adb&dates=8c52ff&fire=ffaaff&currStreakLabel=a97adb&currStreakNum=ffaaff&date_format=M%20j%5B%2C%20Y%5D"></td></tr></table></div>
+<div><table><tr><td width="50%"><img src="https://github-readme-stats.vercel.app/api?username=virag-ky&show_icons=true&include_all_commits=true&hide_border=true&title_color=8c52ff&icon_color=8c52ff&text_color=ffaaff&bg_color=180333"></td><td width="50%"><img src="https://github-readme-streak-stats.herokuapp.com?user=virag-ky&hide_border=true&ring=8c52ff&sideNums=ffaaff&stroke=8c52ff&background=180333&sideLabels=a97adb&dates=8c52ff&fire=ffaaff&currStreakLabel=a97adb&currStreakNum=ffaaff&date_format=M%20j%5B%2C%20Y%5D"></td></tr></table></div>
 
 
-[![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=virag-ky&bg_color=000&color=ffaaff&line=8c52ff&point=ffaaff&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
+[![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=virag-ky&bg_color=180333&color=ffaaff&line=8c52ff&point=ffaaff&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
 <br>
 <br>
