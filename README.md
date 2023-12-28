@@ -1,12 +1,4 @@
-![Neon Minimalist Motivational Inspirational Quote Facebook Cover (3)](https://github.com/virag-ky/virag-ky/assets/79658534/fe5c665d-5c46-4705-89b8-c770e91b42d5)
-
-
-
-
-
-
-
-
+![VIRAG KORMOCZY (2050 x 500 px) (Youtube Banner) (9)](https://github.com/virag-ky/virag-ky/assets/79658534/bec04984-20e6-4884-ab69-03bd5abab5d6)
 <br>
 <br>
 <h2 align="center"> 
@@ -18,22 +10,7 @@
 <h2 align="center">
  📈 Statistics 📈
 </h2>
-<div><table><tr><td width="50%"><img src="https://github-readme-stats.vercel.app/api?username=virag-ky&show_icons=true&include_all_commits=true&hide_border=true&title_color=8c52ff&icon_color=8c52ff&text_color=ffaaff&bg_color=180333"></td><td width="50%"><img src="https://github-readme-streak-stats.herokuapp.com?user=virag-ky&hide_border=true&ring=8c52ff&sideNums=ffaaff&stroke=8c52ff&background=180333&sideLabels=a97adb&dates=8c52ff&fire=ffaaff&currStreakLabel=a97adb&currStreakNum=ffaaff&date_format=M%20j%5B%2C%20Y%5D"></td></tr></table></div>
+<div><table><tr><td width="50%"><img src="https://github-readme-stats.vercel.app/api?username=virag-ky&show_icons=true&include_all_commits=true&hide_border=true&title_color=8c52ff&icon_color=fff6a8&text_color=fea8ff&bg_color=000"></td><td width="50%"><img src="https://github-readme-streak-stats.herokuapp.com?user=virag-ky&hide_border=true&ring=8c52ff&sideNums=fea8ff&stroke=fff6a8&background=000&sideLabels=fff6a8&dates=8c52ff&fire=fff6a8&currStreakLabel=fff6a8&currStreakNum=ffaaff&date_format=M%20j%5B%2C%20Y%5D"></td></tr></table></div>
 
 
-[![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=virag-ky&bg_color=180333&color=ffaaff&line=8c52ff&point=ffaaff&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
-
-<br>
-<br>
-<h2 align="center">🔧 Skills 🔧 </h2>
-
-![Neon Minimalist Motivational Inspirational Quote Facebook Cover (1920 x 350 px)](https://github.com/virag-ky/virag-ky/assets/79658534/aa5138f7-c71a-495a-b2f8-9b70d32aa2ae)
-
-<br>
-<br>
-<h1 align="center">Portfolio</h1>
-<h2 align="center"><a href="https://virag-ky-portfolio.netlify.app/" target="_blank">⭐ Checkout my portfolio ⭐</a></h2>
-
-![Screenshot from 2023-10-28 16-36-52](https://github.com/virag-ky/virag-ky/assets/79658534/14cb6b60-7a8d-4b5c-8f13-13367bb6748b)
-
-
+[![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=virag-ky&bg_color=000&color=fff6a8&line=8c52ff&point=fff6a8&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
