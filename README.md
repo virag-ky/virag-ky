@@ -2,13 +2,12 @@
 <br>
 <br>
 <h2 align="center"> 
-  👥 Visitor Count 👥<br><br>
-  <img src="https://profile-counter.glitch.me/virag-ky/count.svg" />
+  Subscribe to my channel :point_right: <a href="https://www.youtube.com/@virag-ky">Code with Virag</a> 
 </h2>
 <br>
 <br>
 <h2 align="center">
- 📈 Statistics 📈
+ 📈 GitHub Statistics 📈
 </h2>
 <div><table><tr><td width="50%"><img src="https://github-readme-stats.vercel.app/api?username=virag-ky&show_icons=true&include_all_commits=true&hide_border=true&title_color=8c52ff&icon_color=fff6a8&text_color=fea8ff&bg_color=000"></td><td width="50%"><img src="https://github-readme-streak-stats.herokuapp.com?user=virag-ky&hide_border=true&ring=8c52ff&sideNums=fea8ff&stroke=fff6a8&background=000&sideLabels=fff6a8&dates=8c52ff&fire=fff6a8&currStreakLabel=fff6a8&currStreakNum=ffaaff&date_format=M%20j%5B%2C%20Y%5D"></td></tr></table></div>
 
