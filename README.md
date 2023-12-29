@@ -2,7 +2,10 @@
 <br>
 <br>
 <h2 align="center"> 
-  Subscribe to my channel :point_right: <a href="https://www.youtube.com/@virag-ky">Code with Virag</a> 
+Welcome to 'Code with Virag' — where the coding journey begins! 🚀 
+No prior experience is needed – the tutorials are made for absolute beginners. Join me on this coding adventure, where the step-by-step tutorials will empower you to write your first lines of code. Let's code together and watch your skills grow! 💻
+<br>
+<br>Subscribe to my channel :point_right: <a href="https://www.youtube.com/@virag-ky">Code with Virag</a> 
 </h2>
 <br>
 <br>
