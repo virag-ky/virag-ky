@@ -1,4 +1,4 @@
-![VIRAG KORMOCZY (2050 x 500 px) (Youtube Banner) (9)](https://github.com/virag-ky/virag-ky/assets/79658534/bec04984-20e6-4884-ab69-03bd5abab5d6)
+![VIRAG KORMOCZY (2050 x 500 px) (Youtube Banner) (10)](https://github.com/virag-ky/virag-ky/assets/79658534/5a47a954-2bf3-4916-b33d-19ca5451350d)
 <br>
 <br>
 <h2 align="center"> 
