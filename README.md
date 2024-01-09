@@ -12,12 +12,10 @@ No prior experience is needed – the tutorials are made for absolute beginners.
 <br>
 <br>
 <h2 align="center">Latest videos</h2>
-<div align="center">
- 
-[![Watch the video](https://img.youtube.com/vi/WaAsfuVDJ_U/hqdefault.jpg)](https://www.youtube.com/embed/WaAsfuVDJ_U) 
-[![Watch the video](https://img.youtube.com/vi/xcuz7o2XfMo/hqdefault.jpg)](https://www.youtube.com/embed/xcuz7o2XfMo) 
 
-</div>
+ | Learn the basics of Git and GitHub | Channel overview |
+ |---|---|
+| [![Watch the video](https://img.youtube.com/vi/WaAsfuVDJ_U/hqdefault.jpg)](https://www.youtube.com/embed/WaAsfuVDJ_U) | [![Watch the video](https://img.youtube.com/vi/xcuz7o2XfMo/hqdefault.jpg)](https://www.youtube.com/embed/xcuz7o2XfMo) |
  
 <br>
 <br>
