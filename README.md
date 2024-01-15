@@ -13,9 +13,9 @@ No prior experience is needed – the tutorials are made for absolute beginners.
 <br>
 <h2 align="center">Latest videos</h2>
 
- | Learn the basics of Git and GitHub | Channel overview |
+| Learn about the HTML boilerplate + Head element | Learn the basics of Git and GitHub |
  |---|---|
-| [![Watch the video](https://img.youtube.com/vi/WaAsfuVDJ_U/hqdefault.jpg)](https://www.youtube.com/embed/WaAsfuVDJ_U) | [![Watch the video](https://img.youtube.com/vi/xcuz7o2XfMo/hqdefault.jpg)](https://www.youtube.com/embed/xcuz7o2XfMo) |
+| [![Watch the video](https://img.youtube.com/vi/q989wUBLq-4/hqdefault.jpg)](https://www.youtube.com/embed/q989wUBLq-4) | [![Watch the video](https://img.youtube.com/vi/WaAsfuVDJ_U/hqdefault.jpg)](https://www.youtube.com/embed/WaAsfuVDJ_U) | 
  
 <br>
 <br>
