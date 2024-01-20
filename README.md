@@ -7,15 +7,15 @@ Welcome to 'Code with Virag' — where your coding journey begins! 🚀
  <br>
 No prior experience is needed – the tutorials are made for absolute beginners. Join me on this coding adventure, where we will focus on web development and the step-by-step tutorials will empower you to write your first lines of code. If you are completely new to web development, then have a look at the 'Start Here' repository which is a mini-guide I made for beginners. In a few months, you will be confident enough to create your first website then later on more complex web apps. This journey will take you from the front-end to the back-end, and during this time we will explore several frameworks and libraries as well. Now, let's get started and watch your skills grow! 💻
 <br>
-<br>Join the journey with us :point_right: <a href="https://www.youtube.com/@virag-ky">Code with Virag</a> 
+<br>Join this journey :point_right: <a href="https://www.youtube.com/@virag-ky">Code with Virag</a> 
 </h2>
 <br>
 <br>
 <h2 align="center">Latest videos</h2>
 
-| Learn about the HTML boilerplate + Head element | Learn the basics of Git and GitHub |
+| Learn about text elements in HTML | Learn about the HTML boilerplate + Head element |
  |---|---|
-| [![Watch the video](https://img.youtube.com/vi/q989wUBLq-4/hqdefault.jpg)](https://www.youtube.com/embed/q989wUBLq-4) | [![Watch the video](https://img.youtube.com/vi/WaAsfuVDJ_U/hqdefault.jpg)](https://www.youtube.com/embed/WaAsfuVDJ_U) | 
+| [![Watch the video](https://img.youtube.com/vi/uvz7kNjmCVw/hqdefault.jpg)](https://www.youtube.com/embed/uvz7kNjmCVw) | [![Watch the video](https://img.youtube.com/vi/q989wUBLq-4/hqdefault.jpg)](https://www.youtube.com/embed/q989wUBLq-4) |
  
 <br>
 <br>
