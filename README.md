@@ -13,9 +13,9 @@ No prior experience is needed – the tutorials are made for absolute beginners.
 <br>
 <h2 align="center">Latest videos</h2>
 
-| Learn about text elements in HTML | Learn about the HTML boilerplate + Head element |
+| Learn about lists in HTML | Learn about text elements in HTML | 
  |---|---|
-| [![Watch the video](https://img.youtube.com/vi/uvz7kNjmCVw/hqdefault.jpg)](https://www.youtube.com/embed/uvz7kNjmCVw) | [![Watch the video](https://img.youtube.com/vi/q989wUBLq-4/hqdefault.jpg)](https://www.youtube.com/embed/q989wUBLq-4) |
+| [![Watch the video](https://img.youtube.com/vi/irkB9i0597k/hqdefault.jpg)](https://www.youtube.com/embed/irkB9i0597k) | [![Watch the video](https://img.youtube.com/vi/uvz7kNjmCVw/hqdefault.jpg)](https://www.youtube.com/embed/uvz7kNjmCVw) |
  
 <br>
 <br>
