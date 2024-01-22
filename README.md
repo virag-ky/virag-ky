@@ -5,7 +5,7 @@
 Welcome to 'Code with Virag' — where your coding journey begins! 🚀 
  <br>
  <br>
-No prior experience is needed – the tutorials are made for absolute beginners. Join me on this coding adventure, where we will focus on web development and the step-by-step tutorials will empower you to write your first lines of code. If you are completely new to web development, then have a look at the 'Start Here' repository which is a mini-guide I made for beginners. In a few months, you will be confident enough to create your first website then later on more complex web apps. This journey will take you from the front-end to the back-end, and during this time we will explore several frameworks and libraries as well. Now, let's get started and watch your skills grow! 💻
+No prior experience is needed – the tutorials are made for absolute beginners. We will focus on web development and the step-by-step tutorials will empower you to write your first lines of code. If you are completely new to web development, then have a look at the 'Start Here' repository which is a mini-guide I made for beginners. In a few months, you will be confident enough to create your first website then later on more complex web apps. This journey will take you from the front-end to the back-end, and during this time we will explore several frameworks and libraries as well. Now, let's get started and watch your skills grow! 💻
 <br>
 <br>Join this journey :point_right: <a href="https://www.youtube.com/@virag-ky">Code with Virag</a> 
 </h2>
