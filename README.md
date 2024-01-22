@@ -1,4 +1,4 @@
-![VIRAG KORMOCZY (2050 x 500 px) (Youtube Banner) (10)](https://github.com/virag-ky/virag-ky/assets/79658534/5a47a954-2bf3-4916-b33d-19ca5451350d)
+![VIRAG KORMOCZY (2050 x 500 px) (Facebook Cover)](https://github.com/virag-ky/virag-ky/assets/79658534/9ae46ada-ed03-46ae-93a8-1a6e2de08ffc)
 <br>
 <br>
 <h2 align="center"> 
