@@ -1,4 +1,4 @@
-![VIRAG KORMOCZY (2050 x 500 px) (Facebook Cover)](https://github.com/virag-ky/virag-ky/assets/79658534/9ae46ada-ed03-46ae-93a8-1a6e2de08ffc)
+![VIRAG KORMOCZY (2050 x 500 px) (Youtube Banner) (9)](https://github.com/virag-ky/virag-ky/assets/79658534/4cbbc0f9-0ceb-4e81-b051-e27eab4a4585)
 <br>
 <br>
 <h2 align="center"> 
@@ -6,13 +6,13 @@ Welcome to <code>Code with Virag</code> !
  <br>
  <br>
  
-### Tutorials:
+### 📌 Tutorials:
 This is where your coding journey begins! 🚀
 <br>
 No prior experience is needed – the tutorials are made for absolute beginners. We will focus on web development and the step-by-step tutorials will empower you to write your first lines of code. 
-### Challenges:
+### 📌 Challenges:
 In the Challenges playlist, you can follow my <code>#100DaysOfCode</code> journey where I'm completing front-end challenges.
-### Projects:
+### 📌 Projects:
 We will be creating different projects from portfolios to static websites and dynamic web apps with different tech stacks.
 <br>
 <br>
@@ -34,8 +34,8 @@ This journey will take you from the front-end to the back-end, and during this t
 <h2 align="center">
  📈 GitHub Statistics 📈
 </h2>
-<div><table><tr><td width="50%"><img src="https://github-readme-stats.vercel.app/api?username=virag-ky&show_icons=true&include_all_commits=true&hide_border=true&title_color=8c52ff&icon_color=fff6a8&text_color=fea8ff&bg_color=000"></td><td width="50%"><img src="https://github-readme-streak-stats.herokuapp.com?user=virag-ky&hide_border=true&ring=8c52ff&sideNums=fea8ff&stroke=fff6a8&background=000&sideLabels=fff6a8&dates=8c52ff&fire=fff6a8&currStreakLabel=fff6a8&currStreakNum=ffaaff&date_format=M%20j%5B%2C%20Y%5D"></td></tr></table></div>
+<div><table><tr><td width="50%"><img src="https://github-readme-stats.vercel.app/api?username=virag-ky&show_icons=true&include_all_commits=true&hide_border=true&title_color=fff&icon_color=ff66c4&text_color=fea8ff&bg_color=150034"></td><td width="50%"><img src="https://github-readme-streak-stats.herokuapp.com?user=virag-ky&hide_border=true&ring=8c52ff&sideNums=fea8ff&stroke=fff&background=150034&sideLabels=fff6a8&dates=8c52ff&fire=fff6a8&currStreakLabel=fff6a8&currStreakNum=ffaaff&date_format=M%20j%5B%2C%20Y%5D"></td></tr></table></div>
 
 
-[![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=virag-ky&bg_color=000&color=fff6a8&line=8c52ff&point=fff6a8&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
+[![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=virag-ky&bg_color=150034&color=fff8&line=8c52ff&point=ff66c48&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
