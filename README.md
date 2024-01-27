@@ -37,5 +37,5 @@ This journey will take you from the front-end to the back-end, and during this t
 <div><table><tr><td width="50%"><img src="https://github-readme-stats.vercel.app/api?username=virag-ky&show_icons=true&include_all_commits=true&hide_border=true&title_color=8c52ff&icon_color=a75ebc&text_color=fff&bg_color=150034"></td><td width="50%"><img src="https://github-readme-streak-stats.herokuapp.com?user=virag-ky&hide_border=true&ring=8c52ff&sideNums=fff&stroke=fff&background=150034&sideLabels=a75ebc&dates=8c52ff&fire=a75ebc&currStreakLabel=a75ebc&currStreakNum=fff&date_format=M%20j%5B%2C%20Y%5D"></td></tr></table></div>
 
 
-[![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=virag-ky&bg_color=150034&color=fff&line=8c52ff&point=a75ebc&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
+[![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=virag-ky&bg_color=150034&color=a75ebc&line=8c52ff&point=fff&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
