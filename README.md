@@ -2,20 +2,32 @@
 <br>
 <br>
 <h2 align="center"> 
-Welcome to 'Code with Virag' — where your coding journey begins! 🚀 
+Welcome to <code>Code with Virag</code> ! 
  <br>
  <br>
-No prior experience is needed – the tutorials are made for absolute beginners. We will focus on web development and the step-by-step tutorials will empower you to write your first lines of code. If you are completely new to web development, then have a look at the 'Start Here' repository which is a mini-guide I made for beginners. In a few months, you will be confident enough to create your first website then later on more complex web apps. This journey will take you from the front-end to the back-end, and during this time we will explore several frameworks and libraries as well. Now, let's get started and watch your skills grow! 💻
+ 
+### Tutorials:
+This is where your coding journey begins! 🚀
 <br>
-<br>Join this journey :point_right: <a href="https://www.youtube.com/@virag-ky">Code with Virag</a> 
+No prior experience is needed – the tutorials are made for absolute beginners. We will focus on web development and the step-by-step tutorials will empower you to write your first lines of code. 
+### Challenges:
+In the Challenges playlist, you can follow my <code>#100DaysOfCode</code> journey where I'm completing front-end challenges.
+### Projects:
+We will be creating different projects from portfolios to static websites and dynamic web apps with different tech stacks.
+<br>
+<br>
+<hr>
+If you are completely new to web development, then have a look at the 'Start Here' repository which is a mini-guide I made for beginners.
+This journey will take you from the front-end to the back-end, and during this time we will explore several frameworks and libraries as well. Now, let's get started and watch your skills grow! 💻
 </h2>
+<h3 align="center">Subscribe to my channel :point_right: <a href="https://www.youtube.com/@virag-ky">Code with Virag</a> </h3>
 <br>
 <br>
 <h2 align="center">Latest videos</h2>
 
-| Learn about lists in HTML | Learn about text elements in HTML | 
+| Learn about links in HTML | Learn about lists in HTML |
  |---|---|
-| [![Watch the video](https://img.youtube.com/vi/irkB9i0597k/hqdefault.jpg)](https://www.youtube.com/embed/irkB9i0597k) | [![Watch the video](https://img.youtube.com/vi/uvz7kNjmCVw/hqdefault.jpg)](https://www.youtube.com/embed/uvz7kNjmCVw) |
+| [![Watch the video](https://img.youtube.com/vi/s-yDaxyi42I/hqdefault.jpg)](https://www.youtube.com/embed/s-yDaxyi42I) | [![Watch the video](https://img.youtube.com/vi/irkB9i0597k/hqdefault.jpg)](https://www.youtube.com/embed/irkB9i0597k) | 
  
 <br>
 <br>
