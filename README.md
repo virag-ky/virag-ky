@@ -23,7 +23,7 @@ This journey will take you from the front-end to the back-end, and during this t
 <h3 align="center">Subscribe to my channel :point_right: <a href="https://www.youtube.com/@virag-ky">Code with Virag</a> </h3>
 <br>
 <br>
-<h2 align="center">Latest videos</h2>
+<h2 align="center">Latest tutorial videos</h2>
 
 | Learn about links in HTML | Learn about lists in HTML |
  |---|---|
