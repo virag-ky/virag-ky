@@ -25,9 +25,9 @@ This journey will take you from the front-end to the back-end, and during this t
 <br>
 <h2 align="center">Latest tutorial videos</h2>
 
-| Learn about links in HTML | Learn about lists in HTML |
+| Learn how to add images to HTML | Learn about links in HTML | 
  |---|---|
-| [![Watch the video](https://img.youtube.com/vi/s-yDaxyi42I/hqdefault.jpg)](https://www.youtube.com/embed/s-yDaxyi42I) | [![Watch the video](https://img.youtube.com/vi/irkB9i0597k/hqdefault.jpg)](https://www.youtube.com/embed/irkB9i0597k) | 
+| [![Watch the video](https://img.youtube.com/vi/TTCJ7xPjX0k/hqdefault.jpg)](https://www.youtube.com/embed/TTCJ7xPjX0k) | [![Watch the video](https://img.youtube.com/vi/s-yDaxyi42I/hqdefault.jpg)](https://www.youtube.com/embed/s-yDaxyi42I) |
  
 <br>
 <br>
