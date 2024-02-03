@@ -20,7 +20,7 @@ We will be creating different projects from portfolios to static websites and dy
 If you are completely new to web development, then have a look at the 'Start Here' repository which is a mini-guide I made for beginners.
 This journey will take you from the front-end to the back-end, and during this time we will explore several frameworks and libraries as well. Now, let's get started and watch your skills grow! 💻
 </h2>
-<h3 align="center">Subscribe to my channel :point_right: <a href="https://www.youtube.com/@virag-ky">Code with Virag</a> </h3>
+<h3 align="center">Check out my channel :point_right: <a href="https://www.youtube.com/@virag-ky">Code with Virag</a> </h3>
 <br>
 <br>
 <h2 align="center">Latest tutorial videos</h2>
