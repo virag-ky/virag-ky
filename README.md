@@ -25,9 +25,9 @@ This journey will take you from the front-end to the back-end, and during this t
 <br>
 <h2 align="center">Latest tutorial videos</h2>
 
-| Conventional Commits | Markup Practice in HTML | 
+| Introduction to CSS | Conventional Commits | 
  |---|---|
-| [![Watch the video](https://img.youtube.com/vi/4e5iIjnBdug/hqdefault.jpg)](https://www.youtube.com/embed/4e5iIjnBdug) | [![Watch the video](https://img.youtube.com/vi/QQU-F6ilqRE/hqdefault.jpg)](https://www.youtube.com/embed/QQU-F6ilqRE) |
+| [![Watch the video](https://img.youtube.com/vi/2yyTcoW2Lc8/hqdefault.jpg)](https://www.youtube.com/embed/2yyTcoW2Lc8) | [![Watch the video](https://img.youtube.com/vi/4e5iIjnBdug/hqdefault.jpg)](https://www.youtube.com/embed/4e5iIjnBdug) | 
  
 <br>
 <br>
