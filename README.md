@@ -10,6 +10,11 @@ Welcome to <code>Code with Virag</code> !
 This is where your coding journey begins! 🚀
 <br>
 No prior experience is needed – the tutorials are made for absolute beginners. We will focus on web development and the step-by-step tutorials will empower you to write your first lines of code. 
+<br>
+If you are completely new to web development then follow these steps:
+1. [Read my mini-guide](https://github.com/virag-ky/Start-Here)
+2. [Watch the HTML playlist](https://www.youtube.com/watch?v=q989wUBLq-4&list=PLjMZRyJvyMLbzGsCNex6OsrjjzlsGXVb8)
+3. [Watch the CSS playlist](https://www.youtube.com/watch?v=2yyTcoW2Lc8&list=PLjMZRyJvyMLbjAC1Q1U9UF6V45ym9TbDW)
 ### 📌 Challenges:
 In the Challenges playlist, you can follow my <code>#100DaysOfCode</code> journey where I'm completing front-end challenges.
 ### 📌 Projects:
@@ -17,8 +22,6 @@ We will be creating different projects from portfolios to static websites and dy
 <br>
 <br>
 <hr>
-If you are completely new to web development, then have a look at the 'Start Here' repository which is a mini-guide I made for beginners.
-This journey will take you from the front-end to the back-end, and during this time we will explore several frameworks and libraries as well. Now, let's get started and watch your skills grow! 💻
 </h2>
 <h3 align="center">Check out my channel :point_right: <a href="https://www.youtube.com/@virag-ky">Code with Virag</a> </h3>
 <br>
