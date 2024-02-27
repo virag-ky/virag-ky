@@ -1,36 +1,38 @@
-![VIRAG KORMOCZY (2050 x 500 px) (Youtube Banner) (9)](https://github.com/virag-ky/virag-ky/assets/79658534/4cbbc0f9-0ceb-4e81-b051-e27eab4a4585)
+![VIRAG KORMOCZY (2050 x 500 px) (Facebook Cover)](https://github.com/virag-ky/virag-ky/assets/79658534/1bc7dab8-3d1b-4d2e-aacc-9a8229c5fe6e)
+
+
 <br>
 <br>
-<h2 align="center"> 
-Welcome to <code>Code with Virag</code> ! 
+<h3 align="center"> 
+My YouTube channel :point_right: <a href="https://www.youtube.com/@virag-ky">Code with Virag</a>
+ </h3>
  <br>
- <br>
+ <hr>
  
 ### 📌 Tutorials:
-This is where your coding journey begins! 🚀
-<br>
-No prior experience is needed – the tutorials are made for absolute beginners. We will focus on web development and the step-by-step tutorials will empower you to write your first lines of code. 
-<br>
-If you are completely new to web development then follow these steps:
-1. [Read my mini-guide](https://github.com/virag-ky/Start-Here)
-2. [Watch the HTML playlist](https://www.youtube.com/watch?v=q989wUBLq-4&list=PLjMZRyJvyMLbzGsCNex6OsrjjzlsGXVb8)
-3. [Watch the CSS playlist](https://www.youtube.com/watch?v=2yyTcoW2Lc8&list=PLjMZRyJvyMLbjAC1Q1U9UF6V45ym9TbDW)
+
+* [Git and GitHub](https://www.youtube.com/playlist?list=PLjMZRyJvyMLYLf28m8EvRaobqPB8dloWB)
+
+* [HTML](https://www.youtube.com/watch?v=q989wUBLq-4&list=PLjMZRyJvyMLbzGsCNex6OsrjjzlsGXVb8)
+
+* [CSS](https://www.youtube.com/watch?v=2yyTcoW2Lc8&list=PLjMZRyJvyMLbjAC1Q1U9UF6V45ym9TbDW)
+
 ### 📌 Challenges:
 In the Challenges playlist, you can follow my <code>#100DaysOfCode</code> journey where I'm completing front-end challenges.
+<br>
+
 ### 📌 Projects:
 We will be creating different projects from portfolios to static websites and dynamic web apps with different tech stacks.
 <br>
 <br>
 <hr>
-</h2>
-<h3 align="center">Check out my channel :point_right: <a href="https://www.youtube.com/@virag-ky">Code with Virag</a> </h3>
 <br>
 <br>
 <h2 align="center">Latest tutorial videos</h2>
 
-| Introduction to CSS | Conventional Commits | 
+| CSS Cascade | Introduction to CSS | 
  |---|---|
-| [![Watch the video](https://img.youtube.com/vi/2yyTcoW2Lc8/hqdefault.jpg)](https://www.youtube.com/embed/2yyTcoW2Lc8) | [![Watch the video](https://img.youtube.com/vi/4e5iIjnBdug/hqdefault.jpg)](https://www.youtube.com/embed/4e5iIjnBdug) | 
+[![Watch the video](https://img.youtube.com/vi/8AUzCYi10YU/hqdefault.jpg)](https://www.youtube.com/embed/8AUzCYi10YU) | [![Watch the video](https://img.youtube.com/vi/2yyTcoW2Lc8/hqdefault.jpg)](https://www.youtube.com/embed/2yyTcoW2Lc8) | 
  
 <br>
 <br>
