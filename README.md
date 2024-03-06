@@ -30,9 +30,9 @@ We will be creating different projects from portfolios to static websites and dy
 <br>
 <h2 align="center">Latest tutorial videos</h2>
 
-| CSS Cascade | Introduction to CSS | 
+| Chrome DevTools | CSS Cascade |
  |---|---|
-[![Watch the video](https://img.youtube.com/vi/8AUzCYi10YU/hqdefault.jpg)](https://www.youtube.com/embed/8AUzCYi10YU) | [![Watch the video](https://img.youtube.com/vi/2yyTcoW2Lc8/hqdefault.jpg)](https://www.youtube.com/embed/2yyTcoW2Lc8) | 
+[![Watch the video](https://img.youtube.com/vi/Jt4AW8DgPR4/hqdefault.jpg)](https://www.youtube.com/embed/Jt4AW8DgPR4) | [![Watch the video](https://img.youtube.com/vi/8AUzCYi10YU/hqdefault.jpg)](https://www.youtube.com/embed/8AUzCYi10YU) | 
  
 <br>
 <br>
