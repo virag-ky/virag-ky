@@ -18,8 +18,10 @@ My YouTube channel :point_right: <a href="https://www.youtube.com/@virag-ky">Cod
 
 * [CSS](https://www.youtube.com/watch?v=2yyTcoW2Lc8&list=PLjMZRyJvyMLbjAC1Q1U9UF6V45ym9TbDW)
 
+* [Tools](https://www.youtube.com/playlist?list=PLjMZRyJvyMLavA5PZ8RvQSI6dba44ZQQp)
+
 ### 📌 Challenges:
-In the Challenges playlist, you can follow my <code>#100DaysOfCode</code> journey where I'm completing front-end challenges.
+In the 100 Days Of Code Challenge playlist, you can follow my <code>#100DaysOfCode</code> journey where I'm completing front-end challenges.
 <br>
 
 ### 📌 Projects:
@@ -31,9 +33,9 @@ We will be creating different projects from portfolios to static websites and dy
 <br>
 <h2 align="center">Latest tutorial videos</h2>
 
-| Chrome DevTools | CSS Cascade |
+| The Box Model | Chrome DevTools |
  |---|---|
-[![Watch the video](https://img.youtube.com/vi/Jt4AW8DgPR4/hqdefault.jpg)](https://www.youtube.com/embed/Jt4AW8DgPR4) | [![Watch the video](https://img.youtube.com/vi/8AUzCYi10YU/hqdefault.jpg)](https://www.youtube.com/embed/8AUzCYi10YU) | 
+[![Watch the video](https://img.youtube.com/vi/kT6Hr9ce74s/hqdefault.jpg)](https://www.youtube.com/embed/kT6Hr9ce74s) | [![Watch the video](https://img.youtube.com/vi/Jt4AW8DgPR4/hqdefault.jpg)](https://www.youtube.com/embed/Jt4AW8DgPR4) | 
  
 <br>
 <br>
