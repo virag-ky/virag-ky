@@ -2,10 +2,10 @@
 
 <h2 align="center">Latest tutorial videos</h2>
 
-| The Box Model | Chrome DevTools |
+| Flexbox | Block and Inline |
  |---|---|
-[![Watch the video](https://img.youtube.com/vi/kT6Hr9ce74s/hqdefault.jpg)](https://www.youtube.com/embed/kT6Hr9ce74s) | [![Watch the video](https://img.youtube.com/vi/Jt4AW8DgPR4/hqdefault.jpg)](https://www.youtube.com/embed/Jt4AW8DgPR4) | 
- 
+[![Watch the video](https://img.youtube.com/vi/nMYsVc2-WRY/hqdefault.jpg)](https://www.youtube.com/embed/nMYsVc2-WRY) | [![Watch the video](https://img.youtube.com/vi/qTzd200OpYM/hqdefault.jpg)](https://www.youtube.com/embed/qTzd200OpYM) | 
+
 <br>
 <br>
 <h2 align="center">
