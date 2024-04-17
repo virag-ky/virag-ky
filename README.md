@@ -1,4 +1,4 @@
-![VIRAG KORMOCZY (2050 x 500 px) (Facebook Cover)](https://github.com/virag-ky/virag-ky/assets/79658534/4d2f1dca-8643-4394-bcbd-d5da29cf2a96)
+![github-cover](https://github.com/virag-ky/virag-ky/assets/79658534/6fac685b-1218-4fca-997e-37ad44b85613)
 
 <h2 align="center">Latest tutorial videos</h2>
 
