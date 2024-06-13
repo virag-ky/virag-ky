@@ -1,4 +1,5 @@
-![github-cover](https://github.com/virag-ky/virag-ky/assets/79658534/6fac685b-1218-4fca-997e-37ad44b85613)
+![github-cover](https://github.com/virag-ky/virag-ky/assets/79658534/0936ef53-e220-4e07-89de-b819aa7a3697)
+
 
 <h2 align="center">Latest tutorial videos</h2>
 
