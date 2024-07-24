@@ -1,12 +1,6 @@
 ![github-cover](https://github.com/virag-ky/virag-ky/assets/79658534/0936ef53-e220-4e07-89de-b819aa7a3697)
 
 
-<h2 align="center">Latest tutorial videos</h2>
-
-| Flexbox | Block and Inline |
- |---|---|
-[![Watch the video](https://img.youtube.com/vi/nMYsVc2-WRY/hqdefault.jpg)](https://www.youtube.com/embed/nMYsVc2-WRY) | [![Watch the video](https://img.youtube.com/vi/qTzd200OpYM/hqdefault.jpg)](https://www.youtube.com/embed/qTzd200OpYM) | 
-
 <br>
 <br>
 <h2 align="center">
