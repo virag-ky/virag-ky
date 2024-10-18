@@ -18,4 +18,6 @@
 🖥 Latest Projects 🖥
 </h2>
 
-![FireShot Capture 003 - Allen Carter ~ Our Work - allencarter pro](https://github.com/user-attachments/assets/2d2a98cd-4e1e-4cf6-b4b0-f25c706cf738)
+<a href="https://allencarter.pro/" target="_blank">
+<img src="https://github.com/user-attachments/assets/2d2a98cd-4e1e-4cf6-b4b0-f25c706cf738">
+</a>
