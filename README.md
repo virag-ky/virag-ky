@@ -1,5 +1,6 @@
 ![github-cover](https://github.com/virag-ky/virag-ky/assets/79658534/0936ef53-e220-4e07-89de-b819aa7a3697)
 
+<h2 align="center">Need a website? Checkout our packages 👉 https://allencarter.pro/work-with-us/</h2>
 
 <br>
 <br>
@@ -11,3 +12,10 @@
 
 [![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=virag-ky&bg_color=150034&color=9BE8E9&line=8c52ff&point=F3A7FF&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
+<br>
+<br>
+<h2 align="center">
+🖥 Latest Projects 🖥
+</h2>
+
+![FireShot Capture 003 - Allen Carter ~ Our Work - allencarter pro](https://github.com/user-attachments/assets/2d2a98cd-4e1e-4cf6-b4b0-f25c706cf738)
