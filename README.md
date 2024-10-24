@@ -2,11 +2,7 @@
 
 <div align="center">
  
-<h3>🌿 Freelance Web Developer</h3>
- 
-<h3>🖥 Building stunning websites</h3>
-
-<h3>☕️ JavaScript - React - PHP - WordPress</h3>
+<h3>🌿 Freelance Web Developer 🌿 | ☕️ JavaScript - React ☕️</h3>
 
 <h3>💡 Open to work | Paid work only | Email for inquiries => vkormoczy@gmail.com</h3>
 </div>
@@ -16,18 +12,10 @@
 <h2 align="center">
  📈 GitHub Statistics 📈
 </h2>
-<div><table><tr><td width="50%"><img src="https://github-readme-stats.vercel.app/api?username=virag-ky&show_icons=true&theme=catppuccin_mocha"></td><td width="50%"><img src="https://github-readme-streak-stats.herokuapp.com?user=virag-ky&hide_border=true&ring=465c35&sideNums=dd924e&stroke=fff&background=fff&sideLabels=465c35&dates=9fbe93&fire=dd924e&currStreakLabel=465c35&currStreakNum=dd924e&date_format=M%20j%5B%2C%20Y%5D"></td></tr></table></div>
+<div><table><tr><td width="50%"><img src="https://github-readme-stats.vercel.app/api?username=virag-ky&show_icons=true&theme=catppuccin_mocha"></td><td width="50%"><img src="https://github-readme-streak-stats.herokuapp.com?user=virag-ky&hide_border=false&ring=94e2d5&sideNums=cdd6f4&stroke=fff&background=1e1e2e&sideLabels=c19eeb&dates=94e2d5&fire=c19eeb&currStreakLabel=c19eeb&currStreakNum=cdd6f4&date_format=M%20j%5B%2C%20Y%5D"></td></tr></table></div>
 
 
-[![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=virag-ky&bg_color=fff&color=465c35&line=dd924e&point=465c35&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
-
-<div align="center"><table><tr><td>
- <img src="https://github-readme-stats.vercel.app/api/pin/?username=virag-ky&repo=Blog-Card&theme=catppuccin_mocha">
-</td>
- <td>
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=virag-ky&repo=100DaysOfCode-Challenge&theme=catppuccin_mocha">
- </td>
-</tr></table></div>
+[![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=virag-ky&bg_color=1e1e2e&color=94e2d5&line=c19eeb&point=94e2d5&area=true&hide_border=false)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
 <br>
 <br>
