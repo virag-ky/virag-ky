@@ -1,8 +1,7 @@
 ![Building with Passion(5)](https://github.com/user-attachments/assets/9b2cfa75-3ac8-4df8-b160-c0e5f17df94b)
 
 <div align="center">
- 
-<h3>🌿 Freelance Web Developer 🌿 | ☕️ JavaScript - React ☕️</h3>
+
 
 <h3>💡 Open to work | Paid work only | Email for inquiries => vkormoczy@gmail.com</h3>
 </div>
