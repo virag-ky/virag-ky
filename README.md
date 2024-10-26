@@ -2,10 +2,6 @@
 
 <div align="center">
 
-
-<h3>💡 Open to work | Paid work only | Email for inquiries => vkormoczy@gmail.com</h3>
-</div>
-
 <br>
 <br>
 <h2 align="center">
