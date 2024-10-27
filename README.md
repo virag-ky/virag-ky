@@ -12,12 +12,4 @@
 
 [![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=virag-ky&bg_color=1e1e2e&color=94e2d5&line=c19eeb&point=94e2d5&area=true&hide_border=false)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
-<br>
-<br>
-<h2 align="center">
-🖥 Latest Projects 🖥
-</h2>
 
-<a href="https://allencarter.pro/" target="_blank">
-<img src="https://github.com/user-attachments/assets/2d2a98cd-4e1e-4cf6-b4b0-f25c706cf738">
-</a>
