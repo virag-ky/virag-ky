@@ -1,7 +1,12 @@
 ![339324941-0936ef53-e220-4e07-89de-b819aa7a3697](https://github.com/user-attachments/assets/a0e321db-1d4a-4c4c-a634-94fc9692de10)
-
+<br>
+<br>
+<br>
+<br>
 <div align="center">
-
+<a href="https://www.buymeacoffee.com/virag"><img src="https://img.buymeacoffee.com/button-api/?text=Buy me a coffee&emoji=☕&slug=virag&button_colour=BD5FFF&font_colour=ffffff&font_family=Poppins&outline_colour=000000&coffee_colour=FFDD00" /></a>
+</div>
+<div align="center">
 <br>
 <br>
 <h2 align="center">
