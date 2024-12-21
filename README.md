@@ -16,5 +16,13 @@
 
 
 [![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=virag-ky&bg_color=1e1e2e&color=94e2d5&line=c19eeb&point=94e2d5&area=true&hide_border=false)](https://github.com/ashutosh00710/github-readme-activity-graph)
+<br>
+<br>
+<h2 align="center">
+⭐ Top Projects ⭐
+</h2>
 
+| <a href="https://virag-ky-weather-dashboard.netlify.app/" target="_blank">Weather Dashboard</a> | <a href="https://virag-ky-math-magicians.netlify.app/" target="_blank">Math Magicians</a> |
+|---|---|
+| <img width="2027" alt="Screenshot 2024-12-19 at 16 25 24" src="https://github.com/user-attachments/assets/fa392c9e-94e4-4731-bc13-4e921459359a" /> | <img width="2033" alt="Screenshot 2024-12-20 at 12 46 13" src="https://github.com/user-attachments/assets/d1b1eedf-55dd-4e27-9059-799881e94e6a" /> |
 
