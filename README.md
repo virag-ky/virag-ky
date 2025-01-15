@@ -12,7 +12,7 @@
 <h2 align="center">
  📈 GitHub Statistics 📈
 </h2>
-<div><table><tr><td width="50%"><img src="https://github-readme-stats.vercel.app/api?username=virag-ky&show_icons=true&theme=catppuccin_mocha"></td><td width="50%"><img src="https://github-readme-streak-stats.herokuapp.com?user=virag-ky&hide_border=false&ring=94e2d5&sideNums=cdd6f4&stroke=fff&background=1e1e2e&sideLabels=c19eeb&dates=94e2d5&fire=c19eeb&currStreakLabel=c19eeb&currStreakNum=cdd6f4&date_format=M%20j%5B%2C%20Y%5D"></td></tr></table></div>
+<div><table><tr><td width="50%"><img src="https://github-readme-stats.vercel.app/api?username=virag-ky&show_icons=true&theme=catppuccin_mocha"></td><td width="50%"><img src="https://github-readme-streak-stats-eight.vercel.app/?user=virag-ky&hide_border=false&ring=94e2d5&sideNums=cdd6f4&stroke=fff&background=1e1e2e&sideLabels=c19eeb&dates=94e2d5&fire=c19eeb&currStreakLabel=c19eeb&currStreakNum=cdd6f4&date_format=M%20j%5B%2C%20Y%5D"></td></tr></table></div>
 
 
 [![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=virag-ky&bg_color=1e1e2e&color=94e2d5&line=c19eeb&point=94e2d5&area=true&hide_border=false)](https://github.com/ashutosh00710/github-readme-activity-graph)
