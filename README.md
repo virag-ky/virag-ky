@@ -22,6 +22,10 @@
 ⭐ Top Projects ⭐
 </h2>
 
+| <a href="https://frontendcheats.netlify.app/" target="_blank">FrontEndCheats</a> 
+|---|
+| <img width="2025" alt="Screenshot 2025-01-21 at 12 48 46" src="https://github.com/user-attachments/assets/41cca5a6-3495-425e-bcf0-7d5f42b2dca7" /> |
+
 | <a href="https://virag-ky-weather-dashboard.netlify.app/" target="_blank">Weather Dashboard</a> | <a href="https://virag-ky-math-magicians.netlify.app/" target="_blank">Math Magicians</a> |
 |---|---|
 | <img width="2027" alt="Screenshot 2024-12-19 at 16 25 24" src="https://github.com/user-attachments/assets/fa392c9e-94e4-4731-bc13-4e921459359a" /> | <img width="2033" alt="Screenshot 2024-12-20 at 12 46 13" src="https://github.com/user-attachments/assets/d1b1eedf-55dd-4e27-9059-799881e94e6a" /> |
