@@ -3,6 +3,10 @@
 <br>
 
 <div align="center">
+ <h2> 📌 Useful links 📌</h2>
+ <h3><strong>Prepare for front-end interviews: <a href="https://www.greatfrontend.com?fpr=virag48" target="_blank">GreatFrontEnd</a> </strong></h3> 
+ <h3><strong>Practice your front-end coding skills: <a href="https://iCodeThis.com/?ref=virag" target="_blank">iCodeThis</a> </strong></h3>
+</div>
 <br>
 <br>
 <h2 align="center">
