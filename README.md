@@ -1,12 +1,29 @@
 ![339324941-0936ef53-e220-4e07-89de-b819aa7a3697](https://github.com/user-attachments/assets/a0e321db-1d4a-4c4c-a634-94fc9692de10)
 <br>
 <br>
+# Welcome to my GitHub profile! 👋
 
-<div align="center">
- <h2> 📌 Useful links 📌</h2>
- <h3><strong>Prepare for front-end interviews: <a href="https://www.greatfrontend.com?fpr=virag48" target="_blank">GreatFrontEnd</a> </strong></h3> 
- <h3><strong>Practice your front-end coding skills: <a href="https://iCodeThis.com/?ref=virag" target="_blank">iCodeThis</a> </strong></h3>
-</div>
+My name is Virag and I'm a self-taught web developer who is transitioning into an indie hacker.
+
+I mainly use the JavaScript programming language and the React library to build my projects but I also like trying out new tools and technologies.
+
+Right now, I'm challenging myself to build 12 projects in 12 months - a personal mission to enhance my skills and push my creativity.
+<br>
+<br>
+<details>
+ <summary>🖥 12 projects in 12 months</summary><br>
+
+ - January: [FrontEndCheats](https://frontendcheats.netlify.app/)
+   
+</details>
+
+<details>
+ <summary>📌 Useful links</summary>
+
+ - Prepare for front-end interviews: [GreatFrontEnd](https://www.greatfrontend.com?fpr=virag48)
+ 
+ - Practice your front-end coding skills: [iCodeThis](https://iCodeThis.com/?ref=virag)
+</details>
 <br>
 <br>
 <h2 align="center">
@@ -16,17 +33,3 @@
 
 
 [![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=virag-ky&bg_color=1e1e2e&color=94e2d5&line=c19eeb&point=94e2d5&area=true&hide_border=false)](https://github.com/ashutosh00710/github-readme-activity-graph)
-<br>
-<br>
-<h2 align="center">
-⭐ Top Projects ⭐
-</h2>
-
-| <a href="https://frontendcheats.netlify.app/" target="_blank">FrontEndCheats</a> 
-|---|
-| <img width="2025" alt="Screenshot 2025-01-21 at 12 48 46" src="https://github.com/user-attachments/assets/41cca5a6-3495-425e-bcf0-7d5f42b2dca7" /> |
-
-| <a href="https://virag-ky-weather-dashboard.netlify.app/" target="_blank">Weather Dashboard</a> | <a href="https://virag-ky-math-magicians.netlify.app/" target="_blank">Math Magicians</a> |
-|---|---|
-| <img width="2027" alt="Screenshot 2024-12-19 at 16 25 24" src="https://github.com/user-attachments/assets/fa392c9e-94e4-4731-bc13-4e921459359a" /> | <img width="2033" alt="Screenshot 2024-12-20 at 12 46 13" src="https://github.com/user-attachments/assets/d1b1eedf-55dd-4e27-9059-799881e94e6a" /> |
-
