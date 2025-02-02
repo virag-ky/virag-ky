@@ -10,20 +10,20 @@ I mainly use the JavaScript programming language and the React library to build 
 Right now, I'm challenging myself to build 12 projects in 12 months - a personal mission to enhance my skills and push my creativity.
 <br>
 <br>
-<h2><details>
+<h3><details>
  <summary>🖥 12 projects in 12 months</summary><br>
 
  - January: [FrontEndCheats](https://frontendcheats.netlify.app/)
    
-</details></h2>
+</details></h3>
 
-<h2><details>
+<h3><details>
  <summary>📌 Useful links</summary>
 
  - Prepare for front-end interviews: [GreatFrontEnd](https://www.greatfrontend.com?fpr=virag48)
  
  - Practice your front-end coding skills: [iCodeThis](https://iCodeThis.com/?ref=virag)
-</details></h2>
+</details></h3>
 <br>
 <br>
 <div><table><tr><td width="50%"><img src="https://github-readme-stats.vercel.app/api?username=virag-ky&show_icons=true&theme=catppuccin_mocha"></td><td width="50%"><img src="https://github-readme-streak-stats-eight.vercel.app/?user=virag-ky&hide_border=false&ring=94e2d5&sideNums=cdd6f4&stroke=fff&background=1e1e2e&sideLabels=c19eeb&dates=94e2d5&fire=c19eeb&currStreakLabel=c19eeb&currStreakNum=cdd6f4&date_format=M%20j%5B%2C%20Y%5D"></td></tr></table></div>
