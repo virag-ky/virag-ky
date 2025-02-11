@@ -13,7 +13,7 @@ Right now, I'm challenging myself to build 12 projects in 12 months - a personal
 <h3><details>
  <summary>🖥 12 projects in 12 months</summary><br>
 
- - January: [FrontEndCheats](https://frontendcheats.netlify.app/)
+ - January: [FrontEndCheats](https://frontendcheats.com/)
    
 </details></h3>
 
