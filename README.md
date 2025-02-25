@@ -10,12 +10,10 @@ Currently, I'm learning my way to build desktop and mobile apps and besides this
 This year, I'm challenging myself to build 12 projects in 12 months - a personal mission to enhance my skills and push my creativity.
 <br>
 <br>
-<h4><details>
- <summary>🖥 12 projects in 12 months</summary><br>
+<h4> 🖥 12 projects in 12 months </h4>
 
  - January: [FrontEndCheats](https://frontendcheats.com/) ~ A collection of front-end cheat sheets for web developers.
-   
-</details></h4>
+ - February: TaskVibe (work in progress)
 <br>
 <br>
 <div><table><tr><td width="50%"><img src="https://github-readme-stats.vercel.app/api?username=virag-ky&show_icons=true&bg_color=1e293b&icon_color=6bccf2&title_color=6bccf2&text_color=d6d8d9"></td><td width="50%"><img src="https://github-readme-streak-stats-eight.vercel.app/?user=virag-ky&hide_border=false&ring=4b7db5&sideNums=cdd6f4&stroke=6bccf2&background=1e293b&sideLabels=6bccf2&dates=d6d8d9&fire=d6d8d9&currStreakLabel=6bccf2&currStreakNum=d6d8d9&date_format=M%20j%5B%2C%20Y%5D"></td></tr></table></div>
