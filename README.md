@@ -5,7 +5,7 @@ I'm a self-taught web developer who is transitioning into an indie hacker.
 
 I mainly use the JavaScript programming language and the React library to build my projects but I also like trying new tools and technologies.
 
-This year, I'm learning to build desktop and mobile apps and besides this, I'm exploring AI/ML as well.
+This year, I'm learning to build desktop and mobile apps.
 
 Currently, I'm building my very first desktop app with Electron/React, a to-do list app which will be free to use.
 <br>
