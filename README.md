@@ -15,7 +15,7 @@ This year, I'm learning to build desktop and mobile apps.
  - [Math Magicians](https://virag-ky-math-magicians.netlify.app/) ~ Website for all fans of mathematics.
 <br>
 <br>
-<div><table><tr><td width="50%"><img src="https://github-readme-stats.vercel.app/api?username=virag-ky&show_icons=true&bg_color=1e293b&icon_color=6bccf2&title_color=6bccf2&text_color=d6d8d9"></td><td width="50%"><img src="https://github-readme-streak-stats-eight.vercel.app/?user=virag-ky&hide_border=false&ring=4b7db5&sideNums=cdd6f4&stroke=6bccf2&background=1e293b&sideLabels=6bccf2&dates=d6d8d9&fire=d6d8d9&currStreakLabel=6bccf2&currStreakNum=d6d8d9&date_format=M%20j%5B%2C%20Y%5D"></td></tr></table></div>
+<div><table><tr><td width="50%"><img src="https://github-readme-stats.vercel.app/api?username=virag-ky&show_icons=true&theme=panda"></td><td width="50%"><img src="https://github-readme-streak-stats-eight.vercel.app?user=virag-ky&theme=panda&fire=FF74B8&currStreakNum=FF74B8"></td></tr></table></div>
 
 
-[![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=virag-ky&bg_color=1e293b&color=d6d8d9&line=4b7db5&point=fff&area=true&hide_border=false)](https://github.com/ashutosh00710/github-readme-activity-graph)
+[![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=virag-ky&bg_color=31353a&color=24a090&line=24a090&point=ff74b8&area=true&hide_border=false)](https://github.com/ashutosh00710/github-readme-activity-graph)
