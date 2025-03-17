@@ -8,7 +8,6 @@ I mainly use the JavaScript programming language and the React library to build 
 This year, I'm learning to build desktop and mobile apps.
 
 <br>
-<br>
 <h4> 🖥 Top projects: </h4>
 
  - [FrontEndCheats](https://frontendcheats.com/) ~ Collection of front-end cheat sheets for web developers.
