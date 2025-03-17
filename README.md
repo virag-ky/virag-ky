@@ -1,5 +1,5 @@
 
-# Hey there, I'm Virag! 🌃
+# Hey there, I'm Virag! 🌸
 
 I'm a self-taught web developer who is transitioning into an indie hacker.
 
