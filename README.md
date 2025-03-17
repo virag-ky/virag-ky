@@ -7,7 +7,6 @@ I mainly use the JavaScript programming language and the React library to build 
 
 This year, I'm learning to build desktop and mobile apps.
 
-Currently, I'm building my very first desktop app with Electron/React, a to-do list app which will be free to use.
 <br>
 <br>
 <h4> 🖥 Top projects: </h4>
