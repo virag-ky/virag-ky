@@ -25,6 +25,7 @@ This year, I'm learning to build desktop and mobile apps.
  📐 [Math Magicians](https://virag-ky-math-magicians.netlify.app/) ~ Website for all fans of mathematics.
 <br>
 <br>
+<br>
 <div><table><tr><td width="50%"><img src="https://github-readme-stats.vercel.app/api?username=virag-ky&show_icons=true&theme=cobalt"></td><td width="50%"><img src="https://github-readme-streak-stats-eight.vercel.app?user=virag-ky&theme=cobalt&fire=FF74B8&background=193549&currStreakNum=FF74B8"></td></tr></table></div>
 
 
