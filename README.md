@@ -1,4 +1,4 @@
-
+![ba5800065c3eec4ebf0452a404f0f48f_high](https://github.com/user-attachments/assets/f9673be2-1132-4581-a575-78af5f54fdce)
 # Hey there, I'm Virag! 🌸
 
 I'm a self-taught web developer who is transitioning into an indie hacker.
