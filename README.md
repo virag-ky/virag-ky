@@ -4,16 +4,19 @@
 
 
 I'm a self-taught web developer who is transitioning into an indie hacker.
-I use the JavaScript programming language and the React library to build my apps but I also like trying new tools and technologies.
+I use the JavaScript programming language and the React library to build my apps, but I also like trying new tools and technologies.
 This year, I'm learning to build desktop and mobile apps.
 <br>
 <br>
 
 :octocat: What I'm doing lately:
 
-- Learning: React Native & Expo
+- Learning: React Native with Expo & TypeScript
 
-- Building: F1 fan mobile app - predict the race weekend outcomes
+- Building:
+
+  - F1 fan mobile app - predict the race weekend outcomes, get points, earn badges
+  - To-Do List mobile app - a to-do list app with multiple fun colored themes and stickers
 
 <br>
 <h3> ✨ Top projects ✨ </h3>
