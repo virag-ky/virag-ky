@@ -1,8 +1,5 @@
 # Hey there, I'm Virag! 🌸
 
-![ba5800065c3eec4ebf0452a404f0f48f_high](https://github.com/user-attachments/assets/f9673be2-1132-4581-a575-78af5f54fdce)
-
-
 I'm a self-taught web developer who is transitioning into an indie hacker.
 I use the JavaScript programming language and the React library to build my apps, but I also like trying new tools and technologies.
 This year, I'm learning to build mobile apps.
