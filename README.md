@@ -1,4 +1,4 @@
-# Hey there, I'm Virag! 🌸
+# Hey there, I'm Virag!
 
 I'm a self-taught web developer who is transitioning into an indie hacker.
 I use the JavaScript programming language and the React library to build my apps, but I also like trying new tools and technologies.
