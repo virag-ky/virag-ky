@@ -2,21 +2,11 @@
 
 I'm a self-taught web developer who is transitioning into an indie hacker.
 I use the JavaScript programming language and the React library to build my apps, but I also like trying new tools and technologies.
-This year, I'm learning to build mobile apps.
+
+This year, I'm building my first mobile app, a habit tracker app for pet owners - track pet habits and routines (walking, feeding, etc).
 <br>
 <br>
 
-:octocat: What I'm doing lately:
-
-- Learning: React Native with Expo & TypeScript
-
-- Building this year:
-
-  - Habit tracker mobile app for pet owners - track pet habits (walking, feeding, etc)
-  - F1 fan mobile app - predict the race weekend outcomes, get points, earn badges
-  - To-Do List mobile app - a to-do list app with multiple fun colored themes and stickers
-
-<br>
 <h3> ✨ Web Apps ✨ </h3>
 
  💻 [FrontEndCheats](https://frontendcheats.com/) ~ Collection of front-end cheat sheets for web developers.
