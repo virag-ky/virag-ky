@@ -3,9 +3,6 @@
 I'm a self-taught web developer who is transitioning into an indie hacker.
 I use the JavaScript programming language and the React library to build my apps, but I also like trying new tools and technologies.
 
-This year, I'm building my first mobile app, a habit tracker app for pet owners - track pet habits and routines (walking, feeding, etc).
-<br>
-<br>
 
 <h3> ✨ Web Apps ✨ </h3>
 
