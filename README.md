@@ -1,7 +1,7 @@
 # Hey there, I'm Virag!
 
-I'm a self-taught web developer who is transitioning into an indie hacker.
-I use the JavaScript programming language and the React library to build my apps, but I also like trying new tools and technologies.
+I'm a self-taught web developer who is transitioning into an Ethereum developer.
+Currently, I'm learning about Web3 and trading cryptocurrency. These days, I'm investing my time into learning about new topics (e.g blockchain technology, Solidity, etc) and practice building.
 
 
 <h3> ✨ Web Apps ✨ </h3>
