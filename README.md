@@ -1,10 +1,12 @@
 # Hey there, I'm Virag!
 
-I'm a self-taught web developer who is transitioning into an Ethereum developer.
-Currently, I'm learning about Web3 and trading cryptocurrency. These days, I'm investing my time into learning about new topics (e.g blockchain technology, Solidity, etc) and practice building.
+I'm a self-taught full-stack web developer who keeps improving existing skills and take on new ones.
+
+Currently, I'm learning about Web3 (e.g blockchain technology, Solidity, etc) and daily trading.
 
 
-<h3> ✨ Web Apps ✨ </h3>
+
+<h3> ✨My Web Apps ✨ </h3>
 
  💻 [FrontEndCheats](https://frontendcheats.com/) ~ Collection of front-end cheat sheets for web developers.
    
