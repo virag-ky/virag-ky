@@ -13,6 +13,12 @@ Currently, I'm learning about Web3 (e.g blockchain technology, Solidity, etc) an
  ⛅ [Weather Dashboard](https://virag-ky-weather-dashboard.netlify.app/) ~ Responsive, detailed weather dashboard with light/dark theme.
  
  📐 [Math Magicians](https://virag-ky-math-magicians.netlify.app/) ~ Website for all fans of mathematics.
+
+ <br>
+
+  <a href="https://www.buymeacoffee.com/virag" target="_blank">
+    <img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="Buy me a coffee" />
+  </a>
 <br>
 <br>
 <br>
