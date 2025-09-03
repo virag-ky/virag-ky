@@ -1,8 +1,8 @@
 # Hey there, I'm Virag!
 
-I'm a self-taught full-stack web developer who keeps improving existing skills and take on new ones.
+I'm a self-taught web developer with a strong passion for coding, mainly using the JavaScript programming language to create applications. This year, I'm diving into the Web3 world, exploring blockchain technology, Solidity, and smart contracts, while continuing to improve my JS/React skills through side projects. In the future, I would like to learn backend programming languages, AI/ML, and mobile development, taking it one step at a time.
 
-Currently, I'm learning about Web3 (e.g blockchain technology, Solidity, etc) and daily trading.
+I'm just so excited and passionate, looking forward what the programming world will bring.
 
 
 
