@@ -1,6 +1,6 @@
 # Hey there, I'm Virag!
 
-I'm a self-taught web developer with a strong passion for coding, mainly using the JavaScript programming language to create applications. This year, I'm learning about the Web3 world, exploring blockchain technology, Solidity, and smart contracts, while continuing to improve my JS/React skills through side projects. In the future, I would like to learn backend programming languages, AI/ML, and mobile development, taking it one step at a time.
+I'm a self-taught web developer with a strong passion for coding, mainly using the JavaScript programming language to create applications. This year, I'm learning about the Web3 world, exploring blockchain technology, Solidity, and smart contracts, while continuing to improve my JS/React skills through side projects. In the future, I would like to learn other programming languages, AI/ML, and mobile development, taking it one step at a time.
 
 
 
@@ -12,11 +12,6 @@ I'm a self-taught web developer with a strong passion for coding, mainly using t
  
  📐 [Math Magicians](https://virag-ky-math-magicians.netlify.app/) ~ Website for all fans of mathematics.
 
- <br>
-
-  <a href="https://www.buymeacoffee.com/virag" target="_blank">
-    <img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="Buy me a coffee" />
-  </a>
 <br>
 <br>
 <br>
