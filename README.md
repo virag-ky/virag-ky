@@ -16,7 +16,6 @@ My goal is to build impactful, open-source Web3 projects that will be useful for
 
 <br>
 <br>
-<br>
 <div><table><tr><td width="50%"><img src="https://github-readme-stats.vercel.app/api?username=virag-ky&show_icons=true&theme=prussian"></td><td width="50%"><img src="https://github-readme-streak-stats-eight.vercel.app?user=virag-ky&theme=prussian"></td></tr></table></div>
 
 
