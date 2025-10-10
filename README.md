@@ -1,12 +1,17 @@
 # Hey there, I'm Virag! 🌃
 
-I'm a self-taught web developer with a strong passion for coding, mainly using the JavaScript programming language to create applications. Currently, I'm learning about the Web3 world, exploring blockchain technology, Solidity, and smart contracts.
+I'm a self-taught web developer with a strong passion for coding, and currently, I'm learning about the Web3 world, exploring blockchain technology, Solidity, and smart contracts.
 
 My goal is to build impactful, open-source Web3 projects that will be useful for many developers worldwide.
+<br>
+<br>
+<br>
+**- Operating Systems**: MacOS & Linux/Omarchy
 
-
-
-<h3> ✨ My Web Apps ✨ </h3>
+**- Programming Languages**: JavaScript, Solidity (currently learning)
+<br>
+<br>
+<h3> ✨ My Web Apps (Web2) ✨ </h3>
 
  💻 [FrontEndCheats](https://frontendcheats.com/) ~ Collection of front-end cheat sheets for web developers.
    
