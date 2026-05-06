@@ -1,4 +1,5 @@
-<img width="1920" height="1080" alt="readme" src="https://github.com/user-attachments/assets/7610c4d2-04ba-4ae6-be2c-5aa67e9a5da6" />
+<img width="1920" height="1080" alt="just build the damn app" src="https://github.com/user-attachments/assets/a4eb5c4e-e3a8-461e-acb0-a145508eaf33" />
+
 
 
 <br>
